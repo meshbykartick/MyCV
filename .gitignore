@@ -1,0 +1,49 @@
+
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+
+# LaTeX editor temporary files
+*.bak
+*.swp
+*.tmp
+*.log
+*.fls
+*.spl
+
+# Build directories
+_build/
+build/
+out/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor settings
+.vscode/
+.idea/
+*.swo
+*~
+
+# Python (if used for CV automation)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
